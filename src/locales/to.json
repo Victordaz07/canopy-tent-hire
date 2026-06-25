@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "tents": "Ngaahi Fale Tēniti",
+    "reviews": "Ngaahi Lau",
+    "bookNow": "Fakapapau Ni"
+  },
+  "hero": {
+    "kicker": "Tongatapu · Ngāue Fakafāmili",
+    "headline1": "Tu'u Vave 'a e Tēniti.",
+    "headline2": "Faingofua 'a e Kātoanga.",
+    "subtitle": "Fakanofo fale tēniti mo marquee fakafāmili 'i Tongatapu, 'oku 'omai 'a e tēniti lelei ki ha fa'ahinga kātoanga pe.",
+    "cta": "Fakapapau ha Tēniti",
+    "ctaSecondary": "Vakai ki Tēniti",
+    "badge1": "Lea Pilitania mo Tonga",
+    "badge2": "'Ave mo e Ma'u",
+    "badge3": "Sēvesi Lelei Taha"
+  },
+  "features": {
+    "heading": "Ko e Lelei 'o Canopy Tent Hire",
+    "f1Title": "Sēvesi Lea ua",
+    "f1Desc": "'Oku mau lea fakapilitania mo fakatonga, ke ongo'i 'a e kasitomā kotoa kuo nau 'i 'api.",
+    "f2Title": "Fakapapau Faingofua Online",
+    "f2Desc": "Fili ho'o lahi 'o e tēniti mo e 'aho, fili 'a e 'ave pe ma'u, kuo 'osi.",
+    "f3Title": "'Ave mo e Ma'u",
+    "f3Desc": "Te mau 'ave atu mo toe ma'u mai, pe ko koe te ke lava 'o ma'u ia.",
+    "f4Title": "Sēvesi Lelei Taha",
+    "f4Desc": "Ngaahi tēniti lelei mo e sēvesi falala'anga ki he kātoanga kotoa pe."
+  },
+  "tents": {
+    "kicker": "'Emau Lisi",
+    "heading": "'Emau Ngaahi Tēniti",
+    "subheading": "Fili ha lahi 'i ho'o fakapapau fakanofo.",
+    "loading": "'Oku 'utu'utu mai…",
+    "empty": "'E hoko mai ha ngaahi tēniti.",
+    "error": "Na'e ikai lava 'o 'utu'utu mai. Kataki 'o toe feinga.",
+    "photoPlaceholder": "'E hoko mai 'a e fakatātā",
+    "perRental": "'i he fakanofo taki taha"
+  },
+  "booking": {
+    "heading": "Fakapapau ha Tēniti",
+    "name": "Hingoa",
+    "phone": "Telefoni",
+    "tent": "Tēniti",
+    "selectTent": "Fili ha tēniti",
+    "tentUnavailable": "'Ikai 'Ataa",
+    "date": "'Aho",
+    "deliveryMethod": "Founga 'Ave",
+    "delivery": "'Ave Atu",
+    "pickup": "Ma'u Pe",
+    "address": "Tu'asila 'Ave",
+    "submit": "Fakapapau Tēniti",
+    "submitting": "'Oku fakapapau…",
+    "confirmed": "Mālō! Kuo ma'u ho'o kole fakanofo.",
+    "error": "Na'e ikai lava 'o tuku ho'o fakapapau. Kataki 'o toe feinga."
+  },
+  "reviews": {
+    "kicker": "Lea 'a Kasitomā",
+    "heading": "Ko e Lau 'a 'Emau Kasitomā",
+    "leaveReview": "Tuku Ho'o Lau",
+    "name": "Hingoa",
+    "rating": "Rating",
+    "comment": "Fakamatala",
+    "addPhotos": "'Ai ha Fakatātā",
+    "photosComingSoon": "'E hoko mai 'a e 'ai fakatātā",
+    "submit": "Tuku Ho'o Lau",
+    "submitting": "'Oku tuku atu…",
+    "pendingModeration": "Mālō! 'E hā ho'o lau hili 'a e sivi.",
+    "loading": "'Oku 'utu'utu mai 'a e ngaahi lau…",
+    "error": "Na'e ikai lava 'o 'utu'utu mai 'a e ngaahi lau. Kataki 'o toe feinga.",
+    "submitError": "Na'e ikai lava 'o tuku 'a ho'o lau. Kataki 'o toe feinga.",
+    "empty": "Te'eki ha lau. Ko koe 'a e 'uluaki!"
+  },
+  "admin": {
+    "login": "Hū ki Loto Pule",
+    "email": "'Imeili",
+    "password": "Lea Fakapulipuli",
+    "signIn": "Hū ki Loto",
+    "signOut": "Hū ki Tu'a",
+    "dashboard": "Dashboard",
+    "bookings": "Ngaahi Fakanofo",
+    "moderation": "Sivi Fakamatala",
+    "tentsManagement": "Ngaahi Tēniti",
+    "status": {
+      "pending": "'Oku Tatali",
+      "confirmed": "Kuo Fakapapau",
+      "cancelled": "Kuo Fakalongo'i",
+      "completed": "Kuo Kakato"
+    },
+    "approve": "Tali",
+    "reject": "Taliteke'i",
+    "loginError": "Ta'etotonu 'a e 'imeili pe lea fakapulipuli.",
+    "confirmAction": "Fakapapau",
+    "cancelAction": "Fakalongo'i",
+    "completeAction": "Fakaongo Kakato",
+    "save": "Tauhi",
+    "submitting": "'Oku Tauhi…",
+    "cancelEdit": "Fakalongo'i",
+    "addNew": "'Ai Fo'ou",
+    "addImage": "'Ai ha Fakatātā 'e taha",
+    "edit": "Liliu",
+    "delete": "Tāmate'i",
+    "noBookings": "Te'eki ha fakanofo.",
+    "statusLabel": "Tu'unga",
+    "pendingReviews": "Fakamatala 'oku Tatali",
+    "approvedReviews": "Fakamatala kuo Tali",
+    "noPendingReviews": "'Ikai ha fakamatala 'oku tatali ki he sivi.",
+    "noApprovedReviews": "Te'eki ha fakamatala kuo tali.",
+    "confirmDeleteTitle": "Tāmate'i 'a e me'a ni?",
+    "confirmDeleteReview": "'E tāmate'i ta'engata 'a e fakamatala ni.",
+    "confirmDeleteTent": "'E tāmate'i ta'engata 'a e tēniti ni.",
+    "fields": {
+      "nameEn": "Hingoa (Pilitania)",
+      "nameTo": "Hingoa (Lea Tonga)",
+      "descriptionEn": "Fakamatala (Pilitania)",
+      "descriptionTo": "Fakamatala (Lea Tonga)",
+      "size": "Lahi",
+      "price": "Totongi ($)",
+      "imageUrl": "Fakatātā URL",
+      "active": "'Oku Ngāue'aki"
+    }
+  },
+  "validation": {
+    "required": "Fiema'u 'a e konga ni.",
+    "invalidPhone": "Fakahū ha telefoni ngofua.",
+    "pastDate": "Fili ha 'aho 'oku te'eki hoko mai."
+  },
+  "footer": {
+    "tagline": "Canopy Tent Hire — ngaahi tēniti lelei, mei Tongatapu.",
+    "rights": "Ko e Totonu Kotoa 'oku Ma'u.",
+    "linksHeading": "Ngaahi Link Vave",
+    "contactHeading": "'A'ahi Mai",
+    "address": "Halaloto, Tongatapu",
+    "phone": "'E hoko mai 'a e telefoni",
+    "hoursWeekday": "Mōnite – Tu'apulelulu: 9:00am – 5:00pm",
+    "hoursWeekend": "Falaite – Tokonaki: 9:00am – 3:00pm"
+  },
+  "notFound": {
+    "title": "Peesi 'Ikai 'Ilo'i",
+    "subtitle": "'Oku 'ikai ke 'i ai 'a e peesi 'oku ke kumi ki ai.",
+    "backHome": "Foki ki 'Api"
+  }
+}

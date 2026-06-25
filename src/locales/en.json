@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "tents": "Tents",
+    "reviews": "Reviews",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "kicker": "Tongatapu · Family-Owned",
+    "headline1": "Tents Up Fast.",
+    "headline2": "Events Made Easy.",
+    "subtitle": "Tongatapu tent and marquee hire, family-owned, delivering quality canopies for every occasion.",
+    "cta": "Book a Tent",
+    "ctaSecondary": "See Tents",
+    "badge1": "Bilingual EN/TO",
+    "badge2": "Delivery & Pickup",
+    "badge3": "Top-Rated Service"
+  },
+  "features": {
+    "heading": "Why Canopy Tent Hire",
+    "f1Title": "Bilingual Service",
+    "f1Desc": "We speak English and Tongan, so every client feels at home.",
+    "f2Title": "Easy Online Booking",
+    "f2Desc": "Pick your tent size and date, choose delivery or pickup, done.",
+    "f3Title": "Delivery & Pickup",
+    "f3Desc": "We'll drop it off and collect it, or you can pick up yourself.",
+    "f4Title": "Top-Rated Service",
+    "f4Desc": "Quality tents and reliable service for every event, every time."
+  },
+  "tents": {
+    "kicker": "Our Range",
+    "heading": "Our Tents",
+    "subheading": "Pick a size when you book your rental.",
+    "loading": "Loading tents…",
+    "empty": "Tents coming soon.",
+    "error": "Couldn't load tents. Please try again.",
+    "photoPlaceholder": "Photo coming soon",
+    "perRental": "per rental"
+  },
+  "booking": {
+    "heading": "Book a Tent",
+    "name": "Name",
+    "phone": "Phone",
+    "tent": "Tent",
+    "selectTent": "Select a tent",
+    "tentUnavailable": "Unavailable",
+    "date": "Date",
+    "deliveryMethod": "Delivery Method",
+    "delivery": "Delivery",
+    "pickup": "Pickup",
+    "address": "Delivery Address",
+    "submit": "Book Tent",
+    "submitting": "Booking…",
+    "confirmed": "Thanks! Your booking request has been received.",
+    "error": "Couldn't submit your booking. Please try again."
+  },
+  "reviews": {
+    "kicker": "Testimonials",
+    "heading": "What Clients Say",
+    "leaveReview": "Leave a Review",
+    "name": "Name",
+    "rating": "Rating",
+    "comment": "Comment",
+    "addPhotos": "Add Photos",
+    "photosComingSoon": "Photo uploads coming soon",
+    "submit": "Submit Review",
+    "submitting": "Submitting…",
+    "pendingModeration": "Thanks! Your review will appear after moderation.",
+    "loading": "Loading reviews…",
+    "error": "Couldn't load reviews. Please try again.",
+    "submitError": "Couldn't submit your review. Please try again.",
+    "empty": "No reviews yet. Be the first!"
+  },
+  "admin": {
+    "login": "Admin Login",
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "dashboard": "Dashboard",
+    "bookings": "Bookings",
+    "moderation": "Reviews Moderation",
+    "tentsManagement": "Tents",
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled",
+      "completed": "Completed"
+    },
+    "approve": "Approve",
+    "reject": "Reject",
+    "loginError": "Invalid email or password.",
+    "confirmAction": "Confirm",
+    "cancelAction": "Cancel",
+    "completeAction": "Mark Completed",
+    "save": "Save",
+    "submitting": "Saving…",
+    "cancelEdit": "Cancel",
+    "addNew": "Add New",
+    "addImage": "Add Another Image",
+    "edit": "Edit",
+    "delete": "Delete",
+    "noBookings": "No bookings yet.",
+    "statusLabel": "Status",
+    "pendingReviews": "Pending Reviews",
+    "approvedReviews": "Approved Reviews",
+    "noPendingReviews": "No reviews waiting for moderation.",
+    "noApprovedReviews": "No approved reviews yet.",
+    "confirmDeleteTitle": "Delete this item?",
+    "confirmDeleteReview": "This review will be permanently deleted.",
+    "confirmDeleteTent": "This tent will be permanently deleted.",
+    "fields": {
+      "nameEn": "Name (English)",
+      "nameTo": "Name (Tongan)",
+      "descriptionEn": "Description (English)",
+      "descriptionTo": "Description (Tongan)",
+      "size": "Size",
+      "price": "Price ($)",
+      "imageUrl": "Image URL",
+      "active": "Active"
+    }
+  },
+  "validation": {
+    "required": "This field is required.",
+    "invalidPhone": "Enter a valid phone number.",
+    "pastDate": "Please choose a date in the future."
+  },
+  "footer": {
+    "tagline": "Canopy Tent Hire — quality tents, Tongatapu roots.",
+    "rights": "All rights reserved.",
+    "linksHeading": "Quick Links",
+    "contactHeading": "Visit Us",
+    "address": "Halaloto, Tongatapu",
+    "phone": "Phone coming soon",
+    "hoursWeekday": "Mon – Thurs: 9:00am – 5:00pm",
+    "hoursWeekend": "Fri – Sat: 9:00am – 3:00pm"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "subtitle": "The page you're looking for doesn't exist.",
+    "backHome": "Back to Home"
+  }
+}
