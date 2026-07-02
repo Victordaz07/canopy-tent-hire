@@ -84,7 +84,7 @@ export function Hero() {
                 {/* Bottom gradient for badge readability */}
                 <div className="absolute inset-x-0 bottom-0 h-2/5 bg-gradient-to-t from-ink/50 to-transparent" />
                 {/* Event type label */}
-                <div className="absolute bottom-5 left-5 rounded-xl bg-white/90 px-3 py-2.5 shadow-lg backdrop-blur-sm">
+                <div className="absolute bottom-5 right-5 rounded-xl bg-white/90 px-3 py-2.5 shadow-lg backdrop-blur-sm">
                   <p className="text-[10px] font-bold uppercase tracking-widest text-canopy">
                     Wedding Reception
                   </p>
