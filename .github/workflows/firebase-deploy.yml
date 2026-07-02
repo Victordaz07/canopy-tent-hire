@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - claude/seguimos-r09cuu
+      - claude/new-session-74f3ib
   workflow_dispatch: {}
 
 jobs:
