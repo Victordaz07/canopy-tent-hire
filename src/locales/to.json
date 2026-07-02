@@ -1,8 +1,8 @@
 {
   "nav": {
     "tents": "Ngaahi Fale Tēniti",
-    "reviews": "Ngaahi Lau",
-    "bookNow": "Fakapapau Ni"
+    "reviews": "Vakai",
+    "bookNow": "Puka Mai"
   },
   "hero": {
     "kicker": "Tongatapu · Ngāue Fakafāmili",
@@ -17,7 +17,7 @@
   },
   "features": {
     "heading": "Ko e Lelei 'o Canopy Tent Hire",
-    "f1Title": "Sēvesi Lea ua",
+    "f1Title": "Sēvesi Lea Faka-Fonua 'e ua",
     "f1Desc": "'Oku mau lea fakapilitania mo fakatonga, ke ongo'i 'a e kasitomā kotoa kuo nau 'i 'api.",
     "f2Title": "Fakapapau Faingofua Online",
     "f2Desc": "Fili ho'o lahi 'o e tēniti mo e 'aho, fili 'a e 'ave pe ma'u, kuo 'osi.",
@@ -90,11 +90,11 @@
     "reject": "Taliteke'i",
     "loginError": "Ta'etotonu 'a e 'imeili pe lea fakapulipuli.",
     "confirmAction": "Fakapapau",
-    "cancelAction": "Fakalongo'i",
+    "cancelAction": "Kaniseli",
     "completeAction": "Fakaongo Kakato",
     "save": "Tauhi",
     "submitting": "'Oku Tauhi…",
-    "cancelEdit": "Fakalongo'i",
+    "cancelEdit": "Kaniseli",
     "addNew": "'Ai Fo'ou",
     "addImage": "'Ai ha Fakatātā 'e taha",
     "edit": "Liliu",
