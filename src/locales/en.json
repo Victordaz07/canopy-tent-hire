@@ -26,6 +26,11 @@
     "f4Title": "Top-Rated Service",
     "f4Desc": "Quality tents and reliable service for every event, every time."
   },
+  "gallery": {
+    "kicker": "Our Work",
+    "heading": "Events We've Made Unforgettable",
+    "subtitle": "From weddings to birthday parties, every event gets the setup it deserves."
+  },
   "tents": {
     "kicker": "Our Range",
     "heading": "Our Tents",
